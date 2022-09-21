@@ -1,0 +1,35 @@
+body 
+{
+  background: #353e4d;
+  color: white;
+}
+
+div 
+{
+  text-align: center;
+}
+
+#btn
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 50px;
+  border: none;
+  font-size: 15px;
+  box-shadow: 3px 3px 6px black;
+  transition: all, 0.2s;
+}
+#btn:hover
+{
+  background: #d9d9d9;
+}
+#btn:active
+{
+  box-shadow: 0px 0px 3px black;
+  transform: translateY(4px);
+}
+
+#timer
+{
+  font-size: 30px;
+}
