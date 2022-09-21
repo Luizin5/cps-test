@@ -1,2 +1,2 @@
 # cps-test
-# cps-test
+clicks per second
